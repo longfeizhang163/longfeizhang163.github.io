@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://zhanglongfei.cloud</id>
+    <title>LinuxSre云原生 • Posts by &#34;filebeat&#34; category</title>
+    <link href="http://zhanglongfei.cloud" />
+    <updated>2025-03-14T17:00:00.000Z</updated>
+    <category term="初识Linux" />
+    <category term="Kubernetes" />
+    <category term="Linux快速入门" />
+    <category term="filebeat" />
+    <category term="日志收集系统" />
+    <category term="lepus数据库" />
+    <entry>
+        <id>http://zhanglongfei.cloud/posts/804899506.html</id>
+        <title>Filebeat入门</title>
+        <link rel="alternate" href="http://zhanglongfei.cloud/posts/804899506.html"/>
+        <content type="html">&lt;h1 id=&#34;filebeat&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#filebeat&#34;&gt;#&lt;/a&gt; Filebeat&lt;/h1&gt;
+&lt;p&gt;filebeat 采集日志，并转发至 ES&lt;/p&gt;
+</content>
+        <category term="filebeat" />
+        <category term="日志收集系统" />
+        <updated>2025-03-14T17:00:00.000Z</updated>
+    </entry>
+</feed>
