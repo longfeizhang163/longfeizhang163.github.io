@@ -10,13 +10,13 @@
         <category>初识Linux</category>
         <category>Kubernetes</category>
         <category>Linux快速入门</category>
+        <category>filebeat</category>
+        <category>日志收集系统</category>
         <category>lepus数据库</category>
         <category>Docker</category>
         <category>容器</category>
-        <category>filebeat</category>
-        <category>日志收集系统</category>
-        <category>cka</category>
         <category>AAAAAA</category>
+        <category>cka</category>
         <item>
             <guid isPermalink="true">http://test.zhanglongfei.cloud/posts/3761721921.html</guid>
             <title>Docker容器介绍</title>
