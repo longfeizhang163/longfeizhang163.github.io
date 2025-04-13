@@ -7,7 +7,6 @@
         <language>zh-CN</language>
         <pubDate>Fri, 01 Mar 2024 01:00:00 +0800</pubDate>
         <lastBuildDate>Fri, 01 Mar 2024 01:00:00 +0800</lastBuildDate>
-        <category>初识Linux</category>
         <category>Kubernetes</category>
         <category>Linux快速入门</category>
         <category>filebeat</category>
@@ -15,6 +14,7 @@
         <category>lepus数据库</category>
         <category>Docker</category>
         <category>容器</category>
+        <category>初识Linux</category>
         <item>
             <guid isPermalink="true">http://test.zhanglongfei.cloud/posts/1916920075.html</guid>
             <title>课程规划</title>
