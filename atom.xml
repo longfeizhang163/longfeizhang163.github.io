@@ -3,15 +3,46 @@
     <id>http://test.zhanglongfei.cloud</id>
     <title>LinuxSre云原生</title>
     <link href="http://test.zhanglongfei.cloud" />
-    <updated>2025-04-13T04:00:38.000Z</updated>
+    <updated>2025-04-13T09:11:19.048Z</updated>
     <category term="初识Linux" />
     <category term="Kubernetes" />
     <category term="Linux快速入门" />
+    <category term="filebeat" />
+    <category term="日志收集系统" />
     <category term="lepus数据库" />
     <category term="Docker" />
     <category term="容器" />
-    <category term="filebeat" />
-    <category term="日志收集系统" />
+    <entry>
+        <id>http://test.zhanglongfei.cloud/posts/0.html</id>
+        <title></title>
+        <link rel="alternate" href="http://test.zhanglongfei.cloud/posts/0.html"/>
+        <content type="html">&lt;h1 id=&#34;font-stylecolor1dc0c91hexo介绍font&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#font-stylecolor1dc0c91hexo介绍font&#34;&gt;#&lt;/a&gt; &lt;font style=&#34;color:#1DC0C9;&#34;&gt;1.Hexo 介绍&lt;/font&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;font-stylecolor1dc0c911-什么是hexofont&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#font-stylecolor1dc0c911-什么是hexofont&#34;&gt;#&lt;/a&gt; &lt;font style=&#34;color:#1DC0C9;&#34;&gt;1.1 什么是 Hexo&lt;/font&gt;&lt;/h2&gt;
+&lt;p&gt;Hexo 是⼀款基于 Node.js 开发的博客框架系统，支持使用 Markdown 语法编写文章，让用户能够专注于内容创作本身。通过 Hexo 的引擎，&lt;font style=&#34;color:#DF2A3F;&#34;&gt;可以将创作好的 Markdown 文章转换为 HTML 静态页面，这⼀过程通常只需要几秒钟。&lt;/font&gt;（Hexo 就是⼀个静态网站生成工具。）&lt;/p&gt;
+&lt;p&gt;&lt;font style=&#34;color:rgb(38,38,38);&#34;&gt;Hexo 提供了丰富的主题和插件，能够灵活扩展网站的功能与样式，满足用户的个性化需求。Hexo 官方站点：&lt;/font&gt;&lt;a href=&#34;https://hexo.io/zh-cn/&#34;&gt;https://hexo.io/zh-cn/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;font-stylecolor1dc0c912-使用hexofont&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#font-stylecolor1dc0c912-使用hexofont&#34;&gt;#&lt;/a&gt; &lt;font style=&#34;color:#1DC0C9;&#34;&gt;1.2 使用 Hexo&lt;/font&gt;&lt;/h2&gt;
+&lt;p&gt;通常我们会选择&lt;font style=&#34;color:#DF2A3F;&#34;&gt;在 Windows 下安装 Hexo&lt;/font&gt;，本地通过 &lt;font style=&#34;color:#DF2A3F;&#34;&gt;Typora 加载存放文章的源目录，而后进行文章的创建&lt;/font&gt;，文章创作完成后，通过 Hexo 命令一键生成静态网页，并将生成的网页通过插件推送到 GitHub 或服务器上完成文章的发布。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://zlf-blog.oss-cn-hangzhou.aliyuncs.com/2025/02/image-20250413235648628.png&#34; alt=&#34;image-20250413235648628&#34; /&gt;&lt;/p&gt;
+&lt;h1 id=&#34;font-stylecolor1dc0c92hexo安装font&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#font-stylecolor1dc0c92hexo安装font&#34;&gt;#&lt;/a&gt; &lt;font style=&#34;color:#1DC0C9;&#34;&gt;2.Hexo 安装&lt;/font&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;font-stylecolor1dc0c921基础环境font&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#font-stylecolor1dc0c921基础环境font&#34;&gt;#&lt;/a&gt; &lt;font style=&#34;color:#1DC0C9;&#34;&gt;2.1 基础环境&lt;/font&gt;&lt;/h2&gt;
+&lt;p&gt;Hexo 的安装非常简单，只需要在 Windows 系统下安装如下应用程序即可：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1.Git&lt;/li&gt;
+&lt;li&gt;2.Nodejs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;font-stylecolor1dc0c922-安装gitfont&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#font-stylecolor1dc0c922-安装gitfont&#34;&gt;#&lt;/a&gt; &lt;font style=&#34;color:#1DC0C9;&#34;&gt;2.2 安装 Git&lt;/font&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/downloads/win&#34;&gt;Windows 下载并安装 git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourceforge.net/projects/git-osx-installer/&#34;&gt;Mac 下载并安装 Git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Linux 安装命令&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;yum &lt;span class=&#34;token function&#34;&gt;install&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;git&lt;/span&gt; &lt;span class=&#34;token parameter variable&#34;&gt;-y&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;a href=&#34;https://registry.npmmirror.com/-/binary/git-for-windows/v2.43.0.windows.1/Git-2.43.0-64-bit.exe&#34;&gt;官方下载 Git-2.43.0-64-bit.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.csdn.net/mukes/article/details/115693833&#34;&gt;Git 详细安装教程&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;验证安装结果&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.nlark.com/yuque/0/2025/png/32777990/1741429604247-7eaa7bb4-169d-4523-9976-e01b4513b24f.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</content>
+        <updated>2025-04-13T09:11:19.048Z</updated>
+    </entry>
     <entry>
         <id>http://test.zhanglongfei.cloud/posts/3761721921.html</id>
         <title>Docker容器介绍</title>
@@ -615,43 +646,6 @@ Configure a credential helper to remove this warning. See&lt;br /&gt;
 &lt;script data-pjax src=&#34;/lib/hbe.js&#34;&gt;&lt;/script&gt;&lt;link href=&#34;/css/hbe.style.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34;&gt;</content>
         <category term="初识Linux" />
         <updated>2024-02-29T17:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://test.zhanglongfei.cloud/posts/435704073.html</id>
-        <title>AAAAA</title>
-        <link rel="alternate" href="http://test.zhanglongfei.cloud/posts/435704073.html"/>
-        <content type="html">&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#toc_0&#34;&gt;1.Hexo 介绍&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#toc_1&#34;&gt;2.Hexo 安装&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;font-stylecolor1dc0c91hexo介绍font&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#font-stylecolor1dc0c91hexo介绍font&#34;&gt;#&lt;/a&gt; &lt;font style=&#34;color:#1DC0C9;&#34;&gt;1.Hexo 介绍&lt;/font&gt;&lt;/h2&gt;
-&lt;h3 id=&#34;font-stylecolor1dc0c911-什么是hexofont&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#font-stylecolor1dc0c911-什么是hexofont&#34;&gt;#&lt;/a&gt; &lt;font style=&#34;color:#1DC0C9;&#34;&gt;1.1 什么是 Hexo&lt;/font&gt;&lt;/h3&gt;
-&lt;p&gt;Hexo 是⼀款基于 Node.js 开发的博客框架系统，支持使用 Markdown 语法编写文章，让用户能够专注于内容创作本身。通过 Hexo 的引擎，&lt;font style=&#34;color:#DF2A3F;&#34;&gt;可以将创作好的 Markdown 文章转换为 HTML 静态页面，这⼀过程通常只需要几秒钟。&lt;/font&gt;（Hexo 就是⼀个静态网站生成工具。）&lt;/p&gt;
-&lt;p&gt;&lt;font style=&#34;color:rgb(38,38,38);&#34;&gt;Hexo 提供了丰富的主题和插件，能够灵活扩展网站的功能与样式，满足用户的个性化需求。Hexo 官方站点：&lt;/font&gt;&lt;a href=&#34;https://hexo.io/zh-cn/&#34;&gt;https://hexo.io/zh-cn/&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;font-stylecolor1dc0c912-使用hexofont&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#font-stylecolor1dc0c912-使用hexofont&#34;&gt;#&lt;/a&gt; &lt;font style=&#34;color:#1DC0C9;&#34;&gt;1.2 使用 Hexo&lt;/font&gt;&lt;/h3&gt;
-&lt;p&gt;通常我们会选择&lt;font style=&#34;color:#DF2A3F;&#34;&gt;在 Windows 下安装 Hexo&lt;/font&gt;，本地通过 &lt;font style=&#34;color:#DF2A3F;&#34;&gt;Typora 加载存放文章的源目录，而后进行文章的创建&lt;/font&gt;，文章创作完成后，通过 Hexo 命令一键生成静态网页，并将生成的网页通过插件推送到 GitHub 或服务器上完成文章的发布。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.nlark.com/yuque/0/2025/png/32777990/1741426061762-4c5607b9-0266-4d31-9e94-042db938a310.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;h2 id=&#34;font-stylecolor1dc0c92hexo安装font&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#font-stylecolor1dc0c92hexo安装font&#34;&gt;#&lt;/a&gt; &lt;font style=&#34;color:#1DC0C9;&#34;&gt;2.Hexo 安装&lt;/font&gt;&lt;/h2&gt;
-&lt;h3 id=&#34;font-stylecolor1dc0c921基础环境font&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#font-stylecolor1dc0c921基础环境font&#34;&gt;#&lt;/a&gt; &lt;font style=&#34;color:#1DC0C9;&#34;&gt;2.1 基础环境&lt;/font&gt;&lt;/h3&gt;
-&lt;p&gt;Hexo 的安装非常简单，只需要在 Windows 系统下安装如下应用程序即可：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;1.Git&lt;/li&gt;
-&lt;li&gt;2.Nodejs&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;font-stylecolor1dc0c922-安装gitfont&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#font-stylecolor1dc0c922-安装gitfont&#34;&gt;#&lt;/a&gt; &lt;font style=&#34;color:#1DC0C9;&#34;&gt;2.2 安装 Git&lt;/font&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://git-scm.com/downloads/win&#34;&gt;Windows 下载并安装 git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourceforge.net/projects/git-osx-installer/&#34;&gt;Mac 下载并安装 Git&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Linux 安装命令&lt;/p&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;yum &lt;span class=&#34;token function&#34;&gt;install&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;git&lt;/span&gt; &lt;span class=&#34;token parameter variable&#34;&gt;-y&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;a href=&#34;https://registry.npmmirror.com/-/binary/git-for-windows/v2.43.0.windows.1/Git-2.43.0-64-bit.exe&#34;&gt;官方下载 Git-2.43.0-64-bit.exe&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://blog.csdn.net/mukes/article/details/115693833&#34;&gt;Git 详细安装教程&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;验证安装结果&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.nlark.com/yuque/0/2025/png/32777990/1741429604247-7eaa7bb4-169d-4523-9976-e01b4513b24f.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-</content>
-        <category term="Linux快速入门" />
-        <category term="lepus数据库" />
-        <updated>2022-05-29T13:55:14.000Z</updated>
     </entry>
     <entry>
         <id>http://test.zhanglongfei.cloud/posts/2517144917.html</id>
