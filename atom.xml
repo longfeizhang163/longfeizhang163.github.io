@@ -31,8 +31,8 @@ Hexo 的安装非常简单，只需要在 Windows 系统下安装如下应用程
 &lt;li&gt;2.Nodejs&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;H1DvS&#34;&gt;&lt;font style=&#34;color:#1DC0C9;&#34;&gt;2.2 安装Git&lt;/font&gt;&lt;/h2&gt;
-[Windows下载并安装git](https://git-scm.com/downloads/win)
-&lt;p&gt;&lt;a href=&#34;https://sourceforge.net/projects/git-osx-installer/&#34;&gt;Mac 下载并安装 Git&lt;/a&gt;&lt;/p&gt;
++ [Windows下载并安装git](https://git-scm.com/downloads/win)
++ [Mac下载并安装Git](https://sourceforge.net/projects/git-osx-installer/)
 &lt;p&gt;Linux 安装命令&lt;/p&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;yum &lt;span class=&#34;token function&#34;&gt;install&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;git&lt;/span&gt; &lt;span class=&#34;token parameter variable&#34;&gt;-y&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;a href=&#34;https://registry.npmmirror.com/-/binary/git-for-windows/v2.43.0.windows.1/Git-2.43.0-64-bit.exe&#34;&gt;官方下载 Git-2.43.0-64-bit.exe&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://blog.csdn.net/mukes/article/details/115693833&#34;&gt;Git 详细安装教程&lt;/a&gt;&lt;/p&gt;
