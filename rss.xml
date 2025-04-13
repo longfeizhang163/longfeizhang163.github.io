@@ -5,8 +5,8 @@
         <link>http://test.zhanglongfei.cloud</link>
         <description>这是一个LinuxSre相关的技术博客</description>
         <language>zh-CN</language>
-        <pubDate>Sun, 13 Apr 2025 17:11:19 +0800</pubDate>
-        <lastBuildDate>Sun, 13 Apr 2025 17:11:19 +0800</lastBuildDate>
+        <pubDate>Sun, 13 Apr 2025 12:00:38 +0800</pubDate>
+        <lastBuildDate>Sun, 13 Apr 2025 12:00:38 +0800</lastBuildDate>
         <category>初识Linux</category>
         <category>Kubernetes</category>
         <category>Linux快速入门</category>
@@ -15,34 +15,6 @@
         <category>lepus数据库</category>
         <category>Docker</category>
         <category>容器</category>
-        <item>
-            <guid isPermalink="true">http://test.zhanglongfei.cloud/posts/0.html</guid>
-            <title></title>
-            <link>http://test.zhanglongfei.cloud/posts/0.html</link>
-            <pubDate>Sun, 13 Apr 2025 17:11:19 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;K3Urf&#34;&gt;&lt;font style=&#34;color:#1DC0C9;&#34;&gt;1.Hexo介绍&lt;/font&gt;&lt;/h1&gt;
-&lt;h2 id=&#34;UQlzV&#34;&gt;&lt;font style=&#34;color:#1DC0C9;&#34;&gt;1.1 什么是Hexo&lt;/font&gt;&lt;/h2&gt;
-Hexo 是⼀款基于 Node.js 开发的博客框架系统，支持使用 Markdown 语法编写文章，让用户能够专注于内容创作本身。通过 Hexo 的引擎，&lt;font style=&#34;color:#DF2A3F;&#34;&gt;可以将创作好的 Markdown 文章转换为 HTML 静态页面，这⼀过程通常只需要几秒钟。&lt;/font&gt;（Hexo 就是⼀个静态网站生成工具。）
-&lt;p&gt;&lt;font style=&#34;color:rgb(38,38,38);&#34;&gt;Hexo 提供了丰富的主题和插件，能够灵活扩展网站的功能与样式，满足用户的个性化需求。Hexo 官方站点：&lt;/font&gt;&lt;a href=&#34;https://hexo.io/zh-cn/&#34;&gt;https://hexo.io/zh-cn/&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;mzaLi&#34;&gt;&lt;font style=&#34;color:#1DC0C9;&#34;&gt;1.2 使用Hexo&lt;/font&gt;&lt;/h2&gt;
-通常我们会选择&lt;font style=&#34;color:#DF2A3F;&#34;&gt;在 Windows 下安装 Hexo&lt;/font&gt;，本地通过 &lt;font style=&#34;color:#DF2A3F;&#34;&gt;Typora 加载存放文章的源目录，而后进行文章的创建&lt;/font&gt;，文章创作完成后，通过 Hexo 命令一键生成静态网页，并将生成的网页通过插件推送到 GitHub 或服务器上完成文章的发布。
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.nlark.com/yuque/0/2025/png/32777990/1741426061762-4c5607b9-0266-4d31-9e94-042db938a310.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;h1 id=&#34;XgccC&#34;&gt;&lt;font style=&#34;color:#1DC0C9;&#34;&gt;2.Hexo安装&lt;/font&gt;&lt;/h1&gt;
-&lt;h2 id=&#34;bOCBu&#34;&gt;&lt;font style=&#34;color:#1DC0C9;&#34;&gt;2.1基础环境&lt;/font&gt;&lt;/h2&gt;
-Hexo 的安装非常简单，只需要在 Windows 系统下安装如下应用程序即可：
-&lt;ul&gt;
-&lt;li&gt;1.Git&lt;/li&gt;
-&lt;li&gt;2.Nodejs&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;H1DvS&#34;&gt;&lt;font style=&#34;color:#1DC0C9;&#34;&gt;2.2 安装Git&lt;/font&gt;&lt;/h2&gt;
-+ [Mac下载并安装Git](https://sourceforge.net/projects/git-osx-installer/)
-&lt;p&gt;Linux 安装命令&lt;/p&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;yum &lt;span class=&#34;token function&#34;&gt;install&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;git&lt;/span&gt; &lt;span class=&#34;token parameter variable&#34;&gt;-y&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;a href=&#34;https://registry.npmmirror.com/-/binary/git-for-windows/v2.43.0.windows.1/Git-2.43.0-64-bit.exe&#34;&gt;官方下载 Git-2.43.0-64-bit.exe&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://blog.csdn.net/mukes/article/details/115693833&#34;&gt;Git 详细安装教程&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;验证安装结果&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.nlark.com/yuque/0/2025/png/32777990/1741429604247-7eaa7bb4-169d-4523-9976-e01b4513b24f.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
- ]]></description>
-        </item>
         <item>
             <guid isPermalink="true">http://test.zhanglongfei.cloud/posts/3761721921.html</guid>
             <title>Docker容器介绍</title>
