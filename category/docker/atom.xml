@@ -4,6 +4,7 @@
     <title>LinuxSre云原生 • Posts by &#34;docker&#34; category</title>
     <link href="http://test.zhanglongfei.cloud" />
     <updated>2025-04-13T04:00:38.000Z</updated>
+    <category term="初识Linux" />
     <category term="Kubernetes" />
     <category term="Linux快速入门" />
     <category term="filebeat" />
@@ -11,7 +12,6 @@
     <category term="lepus数据库" />
     <category term="Docker" />
     <category term="容器" />
-    <category term="初识Linux" />
     <entry>
         <id>http://test.zhanglongfei.cloud/posts/3761721921.html</id>
         <title>Docker容器介绍</title>

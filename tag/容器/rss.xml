@@ -7,6 +7,7 @@
         <language>zh-CN</language>
         <pubDate>Sun, 13 Apr 2025 12:00:38 +0800</pubDate>
         <lastBuildDate>Sun, 13 Apr 2025 12:00:38 +0800</lastBuildDate>
+        <category>初识Linux</category>
         <category>Kubernetes</category>
         <category>Linux快速入门</category>
         <category>filebeat</category>
@@ -14,7 +15,6 @@
         <category>lepus数据库</category>
         <category>Docker</category>
         <category>容器</category>
-        <category>初识Linux</category>
         <item>
             <guid isPermalink="true">http://test.zhanglongfei.cloud/posts/3761721921.html</guid>
             <title>Docker容器介绍</title>
