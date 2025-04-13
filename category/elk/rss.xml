@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>LinuxSre云原生 • Posts by &#34;elk&#34; category</title>
-        <link>http://zhanglongfei.cloud</link>
+        <link>http://test.zhanglongfei.cloud</link>
         <description>这是一个LinuxSre相关的技术博客</description>
         <language>zh-CN</language>
         <pubDate>Sat, 15 Mar 2025 01:00:00 +0800</pubDate>
@@ -13,10 +13,12 @@
         <category>filebeat</category>
         <category>日志收集系统</category>
         <category>lepus数据库</category>
+        <category>Docker</category>
+        <category>容器</category>
         <item>
-            <guid isPermalink="true">http://zhanglongfei.cloud/posts/804899506.html</guid>
+            <guid isPermalink="true">http://test.zhanglongfei.cloud/posts/804899506.html</guid>
             <title>Filebeat入门</title>
-            <link>http://zhanglongfei.cloud/posts/804899506.html</link>
+            <link>http://test.zhanglongfei.cloud/posts/804899506.html</link>
             <category>filebeat</category>
             <category>日志收集系统</category>
             <pubDate>Sat, 15 Mar 2025 01:00:00 +0800</pubDate>

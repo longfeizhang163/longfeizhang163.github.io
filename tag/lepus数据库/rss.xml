@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>LinuxSre云原生 • Posts by &#34;lepus数据库&#34; tag</title>
-        <link>http://zhanglongfei.cloud</link>
+        <link>http://test.zhanglongfei.cloud</link>
         <description>这是一个LinuxSre相关的技术博客</description>
         <language>zh-CN</language>
         <pubDate>Wed, 29 May 2019 21:55:14 +0800</pubDate>
@@ -13,10 +13,12 @@
         <category>filebeat</category>
         <category>日志收集系统</category>
         <category>lepus数据库</category>
+        <category>Docker</category>
+        <category>容器</category>
         <item>
-            <guid isPermalink="true">http://zhanglongfei.cloud/posts/3693312163.html</guid>
+            <guid isPermalink="true">http://test.zhanglongfei.cloud/posts/3693312163.html</guid>
             <title>Lepus监控数据库</title>
-            <link>http://zhanglongfei.cloud/posts/3693312163.html</link>
+            <link>http://test.zhanglongfei.cloud/posts/3693312163.html</link>
             <category>Linux快速入门</category>
             <category>lepus数据库</category>
             <pubDate>Wed, 29 May 2019 21:55:14 +0800</pubDate>

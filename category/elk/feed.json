@@ -2,11 +2,11 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "LinuxSre云原生 • All posts by \"elk\" category",
     "description": "这是一个LinuxSre相关的技术博客",
-    "home_page_url": "http://zhanglongfei.cloud",
+    "home_page_url": "http://test.zhanglongfei.cloud",
     "items": [
         {
-            "id": "http://zhanglongfei.cloud/posts/804899506.html",
-            "url": "http://zhanglongfei.cloud/posts/804899506.html",
+            "id": "http://test.zhanglongfei.cloud/posts/804899506.html",
+            "url": "http://test.zhanglongfei.cloud/posts/804899506.html",
             "title": "Filebeat入门",
             "date_published": "2025-03-14T17:00:00.000Z",
             "content_html": "<h1 id=\"filebeat\"><a class=\"anchor\" href=\"#filebeat\">#</a> Filebeat</h1>\n<p>filebeat 采集日志，并转发至 ES</p>\n",

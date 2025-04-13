@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>LinuxSre云原生 • Posts by &#34;初识linux&#34; tag</title>
-        <link>http://zhanglongfei.cloud</link>
+        <link>http://test.zhanglongfei.cloud</link>
         <description>这是一个LinuxSre相关的技术博客</description>
         <language>zh-CN</language>
         <pubDate>Fri, 01 Mar 2024 01:00:00 +0800</pubDate>
@@ -13,10 +13,12 @@
         <category>filebeat</category>
         <category>日志收集系统</category>
         <category>lepus数据库</category>
+        <category>Docker</category>
+        <category>容器</category>
         <item>
-            <guid isPermalink="true">http://zhanglongfei.cloud/posts/1916920075.html</guid>
+            <guid isPermalink="true">http://test.zhanglongfei.cloud/posts/1916920075.html</guid>
             <title>课程规划</title>
-            <link>http://zhanglongfei.cloud/posts/1916920075.html</link>
+            <link>http://test.zhanglongfei.cloud/posts/1916920075.html</link>
             <category>初识Linux</category>
             <pubDate>Fri, 01 Mar 2024 01:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;hbe hbe-container&#34; id=&#34;hexo-blog-encrypt&#34; data-wpm=&#34;Oh, this is an invalid password. Check and try again, please.&#34; data-whm=&#34;OOPS, these decrypted content may changed, but you can still have a look.&#34;&gt;
